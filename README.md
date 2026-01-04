@@ -38,5 +38,5 @@ Throughout the project, Python programming language and various libraries such a
 Datasets Link: <*https://www.kaggle.com/code/shivan118/zomato-restaurants-analysis/input*>
 ***
 ### Author
-> TranTrucVy: 
-<*https://github.com/TranTrucVy*>
+> NguyenMinhNhut: 
+<*https://github.com/NguyenMinhNhutIT*>
